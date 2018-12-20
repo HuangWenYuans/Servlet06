@@ -1,0 +1,36 @@
+body {
+	margin: 0px;
+}
+
+#top {
+	height:60px;
+	background-color:#eeeeee;
+	text-align:center;
+	margin-top:0px;
+}
+#left {
+	min-height:500px;
+}
+#loginInfo {
+	text-align:right;
+}
+
+#bottom {
+	text-align:center;
+}
+
+#searchBox {
+	margin: 10px;
+}
+
+#dataArea {
+	margin: 10px;
+}
+
+#pageFooter {
+	margin: 10px;
+}
+#toolbar {
+	width:100%;
+	text-align:right;
+}
