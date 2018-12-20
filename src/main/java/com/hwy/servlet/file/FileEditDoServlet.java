@@ -88,7 +88,7 @@ public class FileEditDoServlet extends HttpServlet {
         //调用更新文件的方法
         int index = fileService.updateFileInformationService(id, title, content, create_time, is_top, read_count, source, attachName);
         if (index > 0) {
-            //更新完成,进行跳转
+            //更新完成
             response.getWriter().write("<script type=text/javascript> alert('数据修改成功！')</script>");
         } else {
             //    更新失败

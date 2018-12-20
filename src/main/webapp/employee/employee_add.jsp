@@ -52,7 +52,7 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse ">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="employee_list.jsp">员工管理</a></li>
+                    <li class="active"><a href="/EmployeeList">员工管理</a></li>
                     <li><a href="/FileList">文件管理</a></li>
                     <li><a href="../page3.jsp">功能页面3</a></li>
                 </ul>
